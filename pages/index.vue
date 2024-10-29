@@ -1,9 +1,9 @@
 <template>
 
-  <header class="text-3xl flex">
-
+  <header class="text-3xl mb-4 flex justify-between">
     <div>Typography</div>
 
+    <NuxtLink to="/colors">Colors</NuxtLink>
   </header>
 
   <div class="flex flex-col space-y-6 my-6">
@@ -13,7 +13,9 @@
 
     <div v-for="(value, key) in typographyData" :key="key">
 
-      <div class="bg-[#27272A] inline-block relative rotate-[-4.5deg] right-4 text-white text-lg p-1 px-3 rounded-full my-4">{{ value.class }}</div>
+      <div
+        class="bg-[#27272A] inline-block relative rotate-[-4.5deg] right-4 text-white text-lg p-1 px-3 rounded-full my-4">
+        {{ value.class }}</div>
 
       <div class="w-full space-y-4">
         <span :class="value.class" class="decoration-gray-100 underline-offset-4">
