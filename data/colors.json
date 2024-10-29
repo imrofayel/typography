@@ -25,6 +25,7 @@
     "chart-4": "#BE5ED9",
     "chart-5": "#733FB8"
   },
+  
   "dark": {
     "background": "#1A191C",
     "foreground": "#F8FAFC",
@@ -41,8 +42,14 @@
     "accent": "#2F2F2F",
     "accent-foreground": "#F8FAFC",
     "destructive": "#991B1B",
+    "destructive-foreground": "#F8FAFC",
     "border": "#2F2F2F",
     "input": "#2F2F2F",
-    "ring": "#897EF6"
+    "ring": "#897EF6",
+    "chart-1": "#372b37",
+    "chart-2": "#2d2744",
+    "chart-3": "#2d2744",
+    "chart-4": "#613163",
+    "chart-5": "#4a2e63"
   }
 }
