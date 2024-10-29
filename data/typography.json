@@ -1,0 +1,37 @@
+
+{
+  "h1": {
+    "title": "Pricing that makes sense.",
+    "class": "heading-h1"
+  },
+
+  "h2": {
+    "title": "You asked, we answered.",
+    "class": "heading-h2"
+  },
+
+  "h3": {
+    "title": "Ready to get viral?",
+    "class": "heading-h3"
+  },
+
+  "h4": {
+    "title": "Feature Comparison.",
+    "class": "heading-h4"
+  },
+  
+  "h5": {
+    "title": "AI Caption Generator.",
+    "class": "heading-h5"
+  },
+
+  "p-section": {
+    "title": "Reclip is the simplest video editor for creating short-form content 10x faster. Designed for creators, teams and agencies. This is demo paragraph.",
+    "class": "paragraph-section"
+  },
+
+  "p": {
+    "title": "Reclip is the simplest video editor for creating short-form content 10x faster. Designed for creators, teams and agencies. This is demo paragraph.",
+    "class": "paragraph"
+  }
+}

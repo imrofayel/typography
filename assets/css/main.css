@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.satoshi {
+    font-family: "Satoshi", sans-serif;
+    font-optical-sizing: auto;
+}
+  
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+
+body {
+    background-color: #fcfcfc
+}
+ 
+ .heading-h1 {
+    @apply text-heading-h1;
+ }
+
+ .heading-h2 {
+    @apply text-heading-h2;
+ }
+
+ .heading-h3 {
+    @apply text-heading-h3;
+ }
+
+ .heading-h4 {
+    @apply text-heading-h4;
+ }
+
+ .heading-h5 {
+    @apply text-heading-h5;
+ }
+
+ .paragraph-section {
+    @apply text-paragraph-section text-gray-500;
+ }
+
+ .paragraph {
+   @apply text-paragraph text-gray-500;
+}
