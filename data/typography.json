@@ -25,6 +25,11 @@
     "class": "heading-h5"
   },
 
+  "h6": {
+    "title": "Something in the way, hmm, mhmmm yeah",
+    "class": "heading-h6"
+  },
+
   "p-section": {
     "title": "Reclip is the simplest video editor for creating short-form content 10x faster. Designed for creators, teams and agencies. This is demo paragraph.",
     "class": "paragraph-section"
