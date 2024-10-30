@@ -12,8 +12,9 @@ module.exports = {
     extend: {
 
       fontSize: {
+        
         'heading-h1': [
-          'clamp(2.8rem, 4.5vw, 4.5rem)',
+          'clamp(2.4rem, 4.5vw, 4.5rem)',
           {
             lineHeight: 'clamp(3.6rem, 4vw, 4.5rem)',
             letterSpacing: '-0.12rem',
@@ -22,7 +23,7 @@ module.exports = {
         ],
 
         'heading-h2': [
-          'clamp(2.8rem, 4.1vw, 4rem)',
+          'clamp(2.2rem, 4.1vw, 4rem)',
           {
             lineHeight: 'clamp(3.6rem, 4.5vw, 4.5rem)',
             letterSpacing: '-0.12rem',
@@ -31,7 +32,7 @@ module.exports = {
         ],
 
         'heading-h3': [
-          'clamp(2.6rem, 3.7vw, 3.7rem)',
+          'clamp(2rem, 3.7vw, 3.7rem)',
           {
             lineHeight: 'clamp(3.8rem, 4.5vw, 4.5rem)',
             letterSpacing: '-0.1rem',
@@ -40,7 +41,7 @@ module.exports = {
         ],
 
         'heading-h4': [
-          'clamp(2.3rem, 3.2vw, 3.2rem)',
+          'clamp(1.8rem, 3.2vw, 3.2rem)',
           {
             lineHeight: 'clamp(2.8rem, 3.5vw, 3.5rem)',
             letterSpacing: '-0.09rem',
@@ -49,7 +50,7 @@ module.exports = {
         ],
 
         'heading-h5': [
-          'clamp(2.1rem, 2.88vw, 2.88rem)',
+          'clamp(1.6rem, 2.88vw, 2.88rem)',
           {
             lineHeight: 'clamp(2.6rem, 3.2vw, 3.2rem)',
             letterSpacing: '-0.08rem',
@@ -58,10 +59,10 @@ module.exports = {
         ],
 
         'heading-h6': [
-          'clamp(1.5rem, 2vw, 2rem)',
+          'clamp(1.4rem, 2vw, 2rem)',
           {
             lineHeight: 'clamp(2rem, 2vw, 2rem)',
-            letterSpacing: '-0.04em',
+            letterSpacing: '-0.01em',
             fontWeight: '600'
           }
         ],
