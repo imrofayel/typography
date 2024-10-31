@@ -59,7 +59,7 @@ module.exports = {
         ],
 
         'heading-h6': [
-          'clamp(1.4rem, 2vw, 2rem)',
+          'clamp(1.4rem, 2.4vw, 2.4rem)',
           {
             lineHeight: 'clamp(2rem, 2vw, 2rem)',
             letterSpacing: '-0.01em',
