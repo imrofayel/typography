@@ -58,7 +58,7 @@ module.exports = {
           }
         ],
 
-        'heading-h6': [
+        'heading-md': [
           'clamp(1.4rem, 2vw, 2rem)',
           {
             lineHeight: 'clamp(2rem, 2vw, 2rem)',

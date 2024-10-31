@@ -25,9 +25,9 @@
     "class": "heading-h5"
   },
 
-  "h6": {
+  "md": {
     "title": "AI Caption Generator.",
-    "class": "heading-h6"
+    "class": "heading-md"
   },
 
   "p-section": {
