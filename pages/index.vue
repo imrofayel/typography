@@ -18,7 +18,7 @@
         {{ value.class }}</div>
 
       <div class="w-full space-y-4">
-        <span :class="value.class" class="decoration-gray-100 underline-offset-4">
+        <span :class="value.class" class="decoration-gray-100">
           {{ inputText.length > 0 ? inputText : value.title }}
         </span>
 

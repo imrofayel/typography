@@ -19,15 +19,15 @@
     "title": "Feature Comparison.",
     "class": "heading-h4"
   },
-
-  "h6": {
-    "title": "Write something.",
-    "class": "heading-h6"
-  },
   
   "h5": {
     "title": "AI Caption Generator.",
     "class": "heading-h5"
+  },
+
+  "h6": {
+    "title": "AI Caption Generator.",
+    "class": "heading-h6"
   },
 
   "p-section": {
